@@ -1,6 +1,6 @@
 package edu.lucas.um.bootcamp.sintaxejava.anatomia;
 
-public class MinhaClasse {
+public class Sintaxe {
 
     public static void main (String[] args){
 
